@@ -4,6 +4,18 @@
   "description": "just enjoy your code",
   "version": "0.0.1",
   "Publisher": "ShahriarFardows",
+  "keywords": [
+    "theme",
+    "dark",
+    "color-theme",
+    "vscode-theme",
+    "vscode",
+    "code-heck"
+
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shahriar-Fardows/VS-code-theme.git"},
   "engines": {
     "vscode": "^1.82.0"
   },
