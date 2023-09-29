@@ -1,0 +1,22 @@
+{
+  "name": "code-heck",
+  "displayName": "Code Heck",
+  "description": "just enjoy your code",
+  "version": "0.0.1",
+  "Publisher": "ShahriarFardows",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code-Heck",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code-Heck-color-theme.json"
+      }
+    ]
+  }
+}
